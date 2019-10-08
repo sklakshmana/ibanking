@@ -1,0 +1,6 @@
+com\ibanking\utitlities\Reporting.class
+com\ibanking\utitlities\XLUtils.class
+com\ibanking\testCases\BaseClass.class
+com\ibanking\pageObjects\LoginPage.class
+com\ibanking\testCases\TC_LoginTest_001.class
+com\ibanking\utitlities\ReadConfig.class
